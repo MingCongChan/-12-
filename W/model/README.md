@@ -1,9 +1,1 @@
-数据集结构
-data为数据集<br>
-~~~~
-data
-  ├─A
-  ├─B
-  └─label
-~~~~
-A中存放变化前的图像，B中存放变化后的图像，label中存放标定图
+copy from https://github.com/likyoo/change_detection.pytorch
